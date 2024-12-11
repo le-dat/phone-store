@@ -110,3 +110,15 @@ The server-side application is built with Node.js and Express and includes the f
 ## Conclusion
 
 This project serves as a comprehensive example of a full-stack web application. Feel free to explore the codebase and contribute to its development.
+
+## Author
+
+### Le Quoc Dat
+
+Passionate software developer with a knack for creating efficient and user-friendly applications. Dedicated to continuous learning and improvement, always exploring new technologies and methodologies.
+
+- **Portfolio:** [Website Portfolio](https://ledat-portfolio.vercel.app/)
+- **GitHub:** [Le Quoc Dat](https://github.com/le-dat)
+- **LinkedIn:** [Le Quoc Dat](https://www.linkedin.com/in/le-quoc-dat)
+
+Feel free to reach out for collaboration or any inquiries!
